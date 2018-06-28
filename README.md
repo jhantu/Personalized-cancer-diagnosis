@@ -9,3 +9,7 @@ Data file's information:
 
 training_variants (ID , Gene, Variations, Class)
 training_text (ID, Text)
+
+#Task
+ Machine Learning algorithm that, using this knowledge base as a baseline, automatically classifies genetic variations.
+ 

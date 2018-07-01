@@ -13,3 +13,5 @@ training_text (ID, Text)
 #Task
  Machine Learning algorithm that, using this knowledge base as a baseline, automatically classifies genetic variations.
  
+#Data
+import the dataset from kaggle which link was provided in the data file

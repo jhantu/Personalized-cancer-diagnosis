@@ -161,4 +161,4 @@ print("Predicted Class :", predicted_cls[0])
 print("Predicted Class Probabilities:", np.round(sig_clf.predict_proba(test_x_onehotCoding[test_point_index]),4))
 print("Actual Class :", test_y[test_point_index])
 indices = np.argsort(-clf.coef_)[predicted_cls-1][:,:no_feature]
-print("-"*50)
+print("-"*30)
